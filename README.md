@@ -99,10 +99,10 @@ as specified in the following table.
 
 |    *Name*         |*<MODEL_TYPE>*|*Top-1 Acc*|*Throughput*|*Checkpoints*|
 |:-------------:|:--------:|:----------:|:-----------:|:-----------:|
-| ViT-T baseline |  `vit_tiny_patch16_224`      |   72.8   |  5.8   | Coming soon |
-| ViT-T SkipAt  |   `skipat_tiny_patch16_224`   |   73.3  |   6.9   | Coming soon |
-| ViT-S baseline |  `vit_small_patch16_224`      |   79.8   | 3.2   | Coming soon |
-| ViT-S SkipAt  |   `skipat_small_patch16_224`   |   80.0  |  3.8   | Coming soon |
+| ViT-T baseline |  `vit_tiny_patch16_224`      |   72.8   |  5.8   | [Link](https://github.com/Qualcomm-AI-research/skip-attention/releases/download/v1.0/vit-tiny.t7) |
+| ViT-T SkipAt  |   `skipat_tiny_patch16_224`   |   73.3  |   6.9   | [Link](https://github.com/Qualcomm-AI-research/skip-attention/releases/download/v1.0/skipat-tiny.t7) |
+| ViT-S baseline |  `vit_small_patch16_224`      |   79.8   | 3.2   | [Link](https://github.com/Qualcomm-AI-research/skip-attention/releases/download/v1.0/vit-small.t7) |
+| ViT-S SkipAt  |   `skipat_small_patch16_224`   |   80.0  |  3.8   | [Link](https://github.com/Qualcomm-AI-research/skip-attention/releases/download/v1.0/skipat-small.t7) |
 
 
 
